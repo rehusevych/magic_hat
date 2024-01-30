@@ -1,0 +1,1 @@
+const userDataTypeId = 0;
